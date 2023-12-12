@@ -1,0 +1,22 @@
+insert into products(name,uom_id,price_per_unit) values('mangoes',1,50);
+insert into products(name,uom_id,price_per_unit) values('cucumber',1,40);
+insert into products(name,uom_id,price_per_unit) values('cauliflower',1,70);
+insert into products(name,uom_id,price_per_unit) values('eggs',2,9);
+insert into products(name,uom_id,price_per_unit) values('rice',1,90);
+insert into products(name,uom_id,price_per_unit) values('lalipop',2,10);
+insert into products(name,uom_id,price_per_unit) values('cheese',2,90);
+insert into products(name,uom_id,price_per_unit) values('cream',2,45);
+insert into products(name,uom_id,price_per_unit) values('juice',2,30);
+insert into products(name,uom_id,price_per_unit) values('bread',2,20);
+
+
+: bananas, berries, or mangoes
+ to eat raw: avocados, mixed greens, or cucumber
+ to cook: Brussels sprouts, sweet potatoes, or cauliflower
+: chicken, beef, fish, tofu, or eggs
+: pasta, quinoa, or rice
+: chickpeas, black beans, or lentils
+ product: milk, yogurt, or cheese
+ item: oats, cereal, or granola
+ staple: jarred sauce, spices, or herbs
+: tortillas, bread, or chicken stock
